@@ -1,4 +1,0 @@
-pandas
-flask==3.0.3
-uvicorn
-asgiref
